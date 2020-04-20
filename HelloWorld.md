@@ -8,7 +8,4 @@ output: word_document
 ```{r setup, include=FALSE}
 ctonneau::opts_chunk$set(echo = TRUE)
 ```
-
-## R Markdown
-
 ## This is a Markdown File
